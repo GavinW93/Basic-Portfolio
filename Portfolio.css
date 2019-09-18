@@ -55,14 +55,7 @@
 
 
 
-.title{
-    font-size:30px;
-    color: white;
-    text-align:right;
-    float:left;
-    background-color:blue;
 
-}
 .info {
     font-size:20px;
     color: white;
@@ -89,10 +82,20 @@
     color: white;
     text-align:center;
 }
-.pic
+.Nayagan
 {
-    float:left;
-    color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+.Nayagan2
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 
 }
 .links
@@ -101,7 +104,6 @@
 }
 .main
 {
-    background-image: url("66163146-ocean-waves-pattern-seamless-background-hand-drawn-asian-style.jpg");
-    height:500px 
-    
+    background-image: url("66163146-ocean-waves-pattern-seamless-background-hand-drawn-asian-style.jpg"); 
+    height:1000px 
 }
