@@ -55,11 +55,25 @@
 
 
 
+.title{
+    font-size:30px;
+    color: white;
+    text-align:right;
+    float:left;
+    background-color:blue;
 
+}
 .info {
     font-size:20px;
-    color: white;
+    color: black;
     text-align:center;
+    background-color: lightgrey;
+    width: 960px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    max-width: 500px;
+    margin: auto;
 }
 .pic
 {
@@ -81,30 +95,12 @@
     font-size:20px;
     color: white;
     text-align:center;
+    
 }
-.Nayagan
+.pic
 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-
-}
-.Nayagan2
-{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-
-}
-
-.Planformer
-{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+    float:left;
+    color: white;
 
 }
 .links
@@ -113,10 +109,10 @@
 }
 .main
 {
-    background-image: url("d187172f3e9b475a00c39cf19c7666e0.jpg"); 
-    height:1000px 
+    background-image: url("../images/d187172f3e9b475a00c39cf19c7666e0.jpg");
+    height:600px 
+    
 }
-
 .footer {
   position: fixed;
   left: 0;
@@ -125,5 +121,4 @@
   background-color: rgba(128, 128, 128, 0.473);
   color: white;
   text-align: center;
-  transpare
 }
