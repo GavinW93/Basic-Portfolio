@@ -98,12 +98,32 @@
   width: 50%;
 
 }
+
+.Planformer
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
 .links
 {
     float:right; 
 }
 .main
 {
-    background-image: url("66163146-ocean-waves-pattern-seamless-background-hand-drawn-asian-style.jpg"); 
+    background-image: url("d187172f3e9b475a00c39cf19c7666e0.jpg"); 
     height:1000px 
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(128, 128, 128, 0.473);
+  color: white;
+  text-align: center;
+  transpare
 }

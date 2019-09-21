@@ -65,8 +65,15 @@
 }
 .info {
     font-size:20px;
-    color: white;
+    color: black;
     text-align:center;
+    background-color: lightgrey;
+    width: 960px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    max-width: 500px;
+    margin: auto;
 }
 .pic
 {
@@ -88,6 +95,7 @@
     font-size:20px;
     color: white;
     text-align:center;
+    
 }
 .pic
 {
@@ -101,7 +109,16 @@
 }
 .main
 {
-    background-image: url("66163146-ocean-waves-pattern-seamless-background-hand-drawn-asian-style.jpg");
-    height:500px 
+    background-image: url("d187172f3e9b475a00c39cf19c7666e0.jpg");
+    height:600px 
     
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(128, 128, 128, 0.473);
+  color: white;
+  text-align: center;
 }
